@@ -1,0 +1,24 @@
+12:25:23.851 HTTP listening on *:90
+12:25:23.851 Matchmaker listening on *:9999
+12:25:38.773 Cirrus server 35.154.254.252:80 connected to Matchmaker, ready: false
+12:25:41.914 Cirrus server 35.154.254.252:80 disconnected from Matchmaker
+12:25:45.777 Cirrus server 127.0.0.1:80 connected to Matchmaker, ready: false
+12:26:18.299 Cirrus server 127.0.0.1:81 connected to Matchmaker, ready: false
+12:26:44.055 Cirrus server 127.0.0.1:80 ready for use
+12:27:17.232 Client connected to Cirrus server 127.0.0.1:80
+12:27:31.607 Client disconnected from Cirrus server 127.0.0.1:80
+12:28:01.266 Client connected to Cirrus server 127.0.0.1:80
+12:28:10.587 Cirrus server 127.0.0.1:80 disconnected from Matchmaker
+12:28:11.622 Cirrus server 127.0.0.1:81 disconnected from Matchmaker
+12:28:23.106 Cirrus server :80 connected to Matchmaker, ready: false
+12:28:23.231 Cirrus server :80 ready for use
+12:28:29.855 Cirrus server :80 disconnected from Matchmaker
+12:28:35.719 Cirrus server :80 connected to Matchmaker, ready: false
+12:28:36.199 Cirrus server :80 ready for use
+12:28:41.898 Cirrus server 35.154.254.252:81 connected to Matchmaker, ready: false
+12:28:48.669 Cirrus server :80 disconnected from Matchmaker
+12:28:56.468 Cirrus server 35.154.254.252:80 connected to Matchmaker, ready: false
+12:28:56.612 Cirrus server 35.154.254.252:80 ready for use
+12:29:03.451 Client connected to Cirrus server 35.154.254.252:80
+12:30:57.999 Cirrus server 35.154.254.252:81 disconnected from Matchmaker
+12:30:59.753 Cirrus server 35.154.254.252:80 disconnected from Matchmaker

@@ -1,0 +1,11 @@
+19:34:44.810 HTTP listening on *:90
+19:34:44.810 Matchmaker listening on *:9999
+19:34:49.254 Cirrus server 3.108.251.87:81 connected to Matchmaker, ready: false
+19:34:55.439 Cirrus server 3.108.251.87:80 connected to Matchmaker, ready: false
+19:34:57.877 Cirrus server 3.108.251.87:81 disconnected from Matchmaker
+19:35:14.763 Cirrus server 3.108.251.87:81 connected to Matchmaker, ready: false
+19:35:24.409 Cirrus server 3.108.251.87:80 ready for use
+19:35:30.228 Client connected to Cirrus server 3.108.251.87:80
+19:35:50.669 Client connected to Cirrus server 3.108.251.87:80
+19:36:44.888 Client disconnected from Cirrus server 3.108.251.87:80
+19:36:47.545 Client disconnected from Cirrus server 3.108.251.87:80

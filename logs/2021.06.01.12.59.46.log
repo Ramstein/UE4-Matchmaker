@@ -1,0 +1,48 @@
+12:59:46.290 HTTP listening on *:90
+12:59:46.290 Matchmaker listening on *:9999
+12:59:56.869 Cirrus server 35.154.254.252:80 connected to Matchmaker, ready: false
+13:00:06.178 Cirrus server 35.154.254.252:81 connected to Matchmaker, ready: false
+13:00:09.838 WARNING: No empty Cirrus servers are available
+13:00:18.799 Cirrus server 35.154.254.252:80 ready for use
+13:00:19.188 Cirrus server 35.154.254.252:80 ready for use
+13:00:20.144 [object Object]
+13:00:20.145 Redirect to 35.154.254.252:80
+13:01:01.027 [object Object]
+13:01:01.028 Redirect to 35.154.254.252:80
+13:01:31.411 [object Object]
+13:01:31.411 Redirect to 35.154.254.252:80
+13:01:48.225 Cirrus server 35.154.254.252:81 disconnected from Matchmaker
+13:01:50.933 Cirrus server 35.154.254.252:80 disconnected from Matchmaker
+13:02:01.737 Cirrus server 35.154.254.252:81 connected to Matchmaker, ready: false
+13:02:10.069 Cirrus server 35.154.254.252:80 connected to Matchmaker, ready: false
+13:02:10.241 Cirrus server 35.154.254.252:80 ready for use
+13:02:10.284 Cirrus server 35.154.254.252:80 ready for use
+13:02:14.056 Client connected to Cirrus server 35.154.254.252:80
+13:02:21.499 WARNING: No empty Cirrus servers are available
+13:02:31.650 WARNING: No empty Cirrus servers are available
+13:02:41.805 WARNING: No empty Cirrus servers are available
+13:02:52.214 WARNING: No empty Cirrus servers are available
+13:03:02.321 WARNING: No empty Cirrus servers are available
+13:03:12.716 WARNING: No empty Cirrus servers are available
+13:03:23.728 WARNING: No empty Cirrus servers are available
+13:03:34.736 WARNING: No empty Cirrus servers are available
+13:03:45.730 WARNING: No empty Cirrus servers are available
+13:03:56.723 WARNING: No empty Cirrus servers are available
+13:04:07.735 WARNING: No empty Cirrus servers are available
+13:04:20.726 WARNING: No empty Cirrus servers are available
+13:04:31.734 WARNING: No empty Cirrus servers are available
+13:04:42.728 WARNING: No empty Cirrus servers are available
+13:04:53.746 WARNING: No empty Cirrus servers are available
+13:05:04.732 WARNING: No empty Cirrus servers are available
+13:05:15.720 WARNING: No empty Cirrus servers are available
+13:05:26.719 WARNING: No empty Cirrus servers are available
+13:05:39.838 Client disconnected from Cirrus server 35.154.254.252:80
+13:05:41.895 Client connected to Cirrus server 35.154.254.252:80
+13:05:47.849 WARNING: No empty Cirrus servers are available
+13:07:56.394 Cirrus server 35.154.254.252:80 disconnected from Matchmaker
+13:08:00.481 Cirrus server 35.154.254.252:81 disconnected from Matchmaker
+13:08:10.501 Cirrus server 35.154.254.252:80 connected to Matchmaker, ready: false
+13:08:10.532 Cirrus server 35.154.254.252:80 ready for use
+13:08:11.047 Cirrus server 35.154.254.252:80 ready for use
+13:08:19.583 Cirrus server 35.154.254.252:81 connected to Matchmaker, ready: false
+13:09:47.286 Cirrus server 35.154.254.252:81 ready for use

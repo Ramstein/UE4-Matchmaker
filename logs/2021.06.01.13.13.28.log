@@ -1,0 +1,19 @@
+13:13:28.085 HTTP listening on *:90
+13:13:28.085 Matchmaker listening on *:9999
+13:13:34.730 Cirrus server 35.154.254.252:81 connected to Matchmaker, ready: false
+13:13:40.486 Cirrus server 35.154.254.252:80 connected to Matchmaker, ready: false
+13:14:02.705 Cirrus server 35.154.254.252:80 ready for use
+13:14:19.299 Cirrus server 35.154.254.252:81 ready for use
+13:14:28.591 [object Object]
+13:14:28.591 Redirect to 35.154.254.252:81
+13:14:37.020 Client connected to Cirrus server 35.154.254.252:81
+13:14:47.209 [object Object]
+13:14:47.209 Redirect to 35.154.254.252:80
+13:14:51.090 Client connected to Cirrus server 35.154.254.252:80
+13:15:45.680 WARNING: No empty Cirrus servers are available
+13:15:56.124 WARNING: No empty Cirrus servers are available
+13:16:06.231 WARNING: No empty Cirrus servers are available
+13:16:08.550 Client disconnected from Cirrus server 35.154.254.252:81
+13:16:16.347 [object Object]
+13:16:16.348 Redirect to 35.154.254.252:81
+13:16:18.106 Client connected to Cirrus server 35.154.254.252:81
